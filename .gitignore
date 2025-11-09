@@ -1,0 +1,35 @@
+# --------------------
+# Python / Cache Files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.egg
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.swp
+*.swo
+.env
+*.log
+*.bak
+*.tmp
+*.cache/
+*.gz
+.DS_Store
+*.tar
+*.whl
+results/
+reports/
+figures/
+enrichment_tables/
+output/
+*.html
+*.csv
+/test_output/
+.workflow_temp/
