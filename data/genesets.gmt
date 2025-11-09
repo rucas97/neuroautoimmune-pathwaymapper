@@ -1,0 +1,6 @@
+Cytokine_Cytokine_Receptor_Interaction	KEGG_like	IL2RA	IL7R	IL6R	TNFRSF1A	CD40
+TCR_Signaling_Pathway	KEGG_like	IL2RA	CTLA4	PTPN22	STAT4
+NFkB_Signaling	KEGG_like	TNFAIP3	CD40	TRAF1
+Antigen_Processing_Presentation	KEGG_like	HLA-DRB1	HLA-DQB1	HLA-DQA1
+Beta_Cell_Function	KEGG_like	INS	PTPN22
+Parkinsons_Disease_Pathway	KEGG_like	SNCA	LRRK2	MAPT	GBA	PINK1

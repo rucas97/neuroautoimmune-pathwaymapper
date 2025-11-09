@@ -1,0 +1,25 @@
+Term,SetSize,OverlapCount,P-value,OverlapGenes,Adjusted P-value,disease
+Cytokine_Cytokine_Receptor_Interaction,5,4,0.03070175438596491,"CD40,IL2RA,IL7R,TNFRSF1A",0.18421052631578946,ms
+TCR_Signaling_Pathway,4,2,0.43921568627450985,"IL2RA,STAT4",1.0,ms
+NFkB_Signaling,3,1,0.7491228070175437,CD40,1.0,ms
+Antigen_Processing_Presentation,3,1,0.7491228070175437,HLA-DRB1,1.0,ms
+Beta_Cell_Function,2,0,1.0,,1.0,ms
+Parkinsons_Disease_Pathway,5,0,1.0,,1.0,ms
+Cytokine_Cytokine_Receptor_Interaction,5,1,0.9318885448916409,IL6R,1.0,pd
+TCR_Signaling_Pathway,4,0,1.0,,1.0,pd
+NFkB_Signaling,3,0,1.0,,1.0,pd
+Antigen_Processing_Presentation,3,1,0.7729618163054697,HLA-DQA1,1.0,pd
+Beta_Cell_Function,2,0,1.0,,1.0,pd
+Parkinsons_Disease_Pathway,5,5,0.0018059855521155833,"GBA,LRRK2,MAPT,PINK1,SNCA",0.010835913312693499,pd
+Cytokine_Cytokine_Receptor_Interaction,5,1,0.9318885448916409,IL6R,1.0,ra
+TCR_Signaling_Pathway,4,3,0.11738906088751287,"CTLA4,PTPN22,STAT4",0.7043343653250772,ra
+NFkB_Signaling,3,2,0.29618163054695557,"TNFAIP3,TRAF1",0.8885448916408667,ra
+Antigen_Processing_Presentation,3,1,0.7729618163054697,HLA-DRB1,1.0,ra
+Beta_Cell_Function,2,1,0.6140350877192984,PTPN22,1.0,ra
+Parkinsons_Disease_Pathway,5,0,1.0,,1.0,ra
+Cytokine_Cytokine_Receptor_Interaction,5,1,0.9169891640866873,IL2RA,1.0,t1d
+TCR_Signaling_Pathway,4,4,0.007223942208462332,"CTLA4,IL2RA,PTPN22,STAT4",0.043343653250773995,t1d
+NFkB_Signaling,3,0,1.0,,1.0,t1d
+Antigen_Processing_Presentation,3,1,0.7491228070175437,HLA-DQB1,1.0,t1d
+Beta_Cell_Function,2,2,0.11052631578947371,"INS,PTPN22",0.33157894736842114,t1d
+Parkinsons_Disease_Pathway,5,0,1.0,,1.0,t1d
